@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466583314 source:c:\users\kazik\desktop\progr\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
+1466579714 source:c:\users\kazik\desktop\moje\programowanie\c++\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
